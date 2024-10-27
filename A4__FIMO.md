@@ -31,3 +31,7 @@ pt. 1))
       Mochós
         **Característica:** Su organización se centra en las fiestas que celebran a lo largo del año, siendo la más importante la de San Francisco.
         **Lengua que dominan:** El qato’k
+    Guanajuato
+      Chichimecas
+        **Característica:** Eran cazadores, recolectores, guerreros y agricultores. Su vida era nómada y se movían constantemente en busca de recursos.
+        **Lengua que dominan:** El chichimeco jonáz
