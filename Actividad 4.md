@@ -16,7 +16,7 @@ pt. 3))
         **Característica:** Las mujeres adultas visten vestidos de una sola pieza, mientras que las jóvenes se visten con la moda actual. Los hombres visten pantalón y camisa, y usan sombrero de palma o estilo vaquero para protegerse del sol.
         **Lengua que dominan:** El oluteco oyaakaw
       Popolucas
-        **Característica:** Los popolucas se autodenominan “núntaha'yi” o “nuntaanh+maatyi”, que significa “hijos de Homshuk”, el dios del maíz. 
+        **Característica:** Los popolucas se autodenominan “núntaha’yi” o “nuntaanh+maatyi”, que significa “hijos de Homshuk”, el dios del maíz. 
         **Lengua que dominan:** El popoluca de la Sierra
       Sayultecos
         **Característica:** Su danza más significativa es la de la Malinche.
@@ -32,7 +32,7 @@ pt. 3))
         **Característica:** Los hombres realizan ceremonias alrededor del maíz, en la inauguración de una casa, en caso de enfermedad, de matrimonio, de nacimiento, etc.
         **Lengua que dominan:** El q’eqchi’
       K’iches
-        **Característica:** La agricultura era la base de la economía de los K'iches', y su principal cultivo era el maíz. También cultivaban algodón, frijoles, camote, yuca y cacao.
+        **Característica:** La agricultura era la base de la economía de los K’iches’, y su principal cultivo era el maíz. También cultivaban algodón, frijoles, camote, yuca y cacao.
         **Lengua que dominan:** El k’iche’
       Awakatekos
         **Característica:** Realizan rezos, ofrendas, comidas, enterramientos de piedras, encomendaciones y quema de candelas.
